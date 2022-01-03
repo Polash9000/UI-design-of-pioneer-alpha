@@ -1,0 +1,135 @@
+.margin-right{
+    margin-right: 30px;
+}
+
+.input-width{
+    width: 97%;
+    height: 35px;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+.required-star{
+    color: rgb(247, 78, 78);
+}
+
+.round{
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+.space-between{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    margin-right: 42px; 
+}
+
+.space-between-input{
+    width: 92%;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+}
+
+.question-div11{
+    border: 1px solid;
+    border-radius: 8px;
+    width: 45%;
+    padding: 3px 10px;
+}
+
+.day-icon{
+    /* position: relative;
+    right: 105px;
+    top: 5px;
+    font-size: 25px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+    font-size: 25px;
+}
+
+.time-icon{
+    /* position: relative;
+    right: 105px;
+    top: 5px;
+    font-size: 25px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+    font-size: 25px;
+}
+
+.question1{
+    border-radius: 8px;
+    box-shadow: -1px 1px 5px 1px rgba(95, 92, 92, 0.75);
+}
+
+.question2{
+    border-radius: 8px;
+    box-shadow: -1px 1px 5px 1px rgba(95, 92, 92, 0.75);
+}
+
+.question1-div-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.copy-delete{
+    display: flex;
+    justify-content: right;
+}
+
+.full-content{
+    padding: 15px;
+}
+
+.question-div-radio-style{
+    margin-right: 10px;
+}
+
+.question-div-copy-delete{
+    font-size: 25px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.question-div1{
+    border: 1px solid;
+    border-radius: 8px;
+    width: 60%;
+    padding: 3px 10px;
+}
+
+.question-div1-input{
+    width: 95%;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+}
+
+.question-div1-icon{
+    font-size: 25px;
+}
+
+.dropdown-div{
+    border: 1px solid;
+    border-radius: 8px;
+    width: 20%;
+    padding-left: 30px;
+}
+
+.icon-shadow{
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+    padding-left: 5px;
+    margin-right: 65px;
+}
+
+.mouse-effect{
+    cursor: pointer;
+    margin-bottom: 10px;
+}
